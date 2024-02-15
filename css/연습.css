@@ -1,0 +1,13 @@
+* {
+  background-color: beige;
+}
+
+#div2 {
+  color: orangered;
+  background-color: blue;
+}
+#div1 {
+  background-color: salmon;
+  width: 200px;
+  height: 100px;
+}
